@@ -2,7 +2,27 @@
 
 public class Operaciones
 {
-    
+    public static int Sumar(int a, int b)
+    {
+        return a + b;
+    }
+    public static int Multiplicar(int a, int b)
+    {
+        return a * b;
+    }
+    public static int Dividir(int a, int b)
+    {
+        if (b == 0)
+        {
+            throw new ArgumentException("No se puede dividir por cero.");
+        }
+        return a / b;
+    }
+    public static int Restar(int a, int b)
+    {
+        return a - b;
+    }
+
 }
 
 public class Menu

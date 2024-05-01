@@ -1,0 +1,21 @@
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.AssemblyInfoInputs.cache
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.AssemblyInfo.cs
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.exe
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.deps.json
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.runtimeconfig.json
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.dll
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.pdb
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.dll
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\refint\Etsejercicio9.dll
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.pdb
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.genruntimeconfig.cache
+C:\Users\nueva\source\repos\Etsejercicio9\Etsejercicio9\obj\Debug\net8.0\ref\Etsejercicio9.dll
+C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.AssemblyInfoInputs.cache
+C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.AssemblyInfo.cs
+C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.dll
+C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\refint\Etsejercicio9.dll
+C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.pdb

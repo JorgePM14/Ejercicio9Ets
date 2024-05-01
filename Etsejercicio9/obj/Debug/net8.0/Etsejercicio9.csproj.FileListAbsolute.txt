@@ -19,3 +19,18 @@ C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0
 C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.dll
 C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\refint\Etsejercicio9.dll
 C:\Users\nueva\Desktop\proyecto git\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.pdb
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.AssemblyInfoInputs.cache
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.AssemblyInfo.cs
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.sourcelink.json
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.dll
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\refint\Etsejercicio9.dll
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.pdb
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.exe
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.deps.json
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.runtimeconfig.json
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.dll
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\bin\Debug\net8.0\Etsejercicio9.pdb
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\Etsejercicio9.genruntimeconfig.cache
+C:\Users\HP Pavilion x360\Downloads\repositorio_GitHub\Ejercicio9Ets\Etsejercicio9\obj\Debug\net8.0\ref\Etsejercicio9.dll

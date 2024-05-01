@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nueva\\Desktop\\proyecto git\\Ejercicio9Ets\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABA2BF9-4117-48C9-93D6-C007CCC0237B}|Etsejercicio9\\Etsejercicio9.csproj|c:\\users\\nueva\\desktop\\proyecto git\\ejercicio9ets\\etsejercicio9\\etsejercicio9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DABA2BF9-4117-48C9-93D6-C007CCC0237B}|Etsejercicio9\\Etsejercicio9.csproj|solutionrelative:etsejercicio9\\etsejercicio9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Etsejercicio9.csproj",
+              "DocumentMoniker": "C:\\Users\\nueva\\Desktop\\proyecto git\\Ejercicio9Ets\\Etsejercicio9\\Etsejercicio9.csproj",
+              "RelativeDocumentMoniker": "Etsejercicio9\\Etsejercicio9.csproj",
+              "ToolTip": "C:\\Users\\nueva\\Desktop\\proyecto git\\Ejercicio9Ets\\Etsejercicio9\\Etsejercicio9.csproj",
+              "RelativeToolTip": "Etsejercicio9\\Etsejercicio9.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T12:39:38.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

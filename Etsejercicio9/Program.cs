@@ -2,7 +2,26 @@
 
 public class Operaciones
 {
-    
+    public static int Sumar(int a, int b)
+    {
+        return a + b;
+    }
+    public static int Multiplicar(int a, int b)
+    {
+        return a * b;
+    }
+    public static int Dividir(int a, int b)
+    {
+        if (b == 0)
+        {
+            throw new ArgumentException("No se puede dividir por cero.");
+        }
+        return a / b;
+    }
+    public static int Restar(int a, int b)
+    {
+        return a + b;
+    }
 }
 
 public class Menu
@@ -21,10 +40,11 @@ public class Menu
         int num1 = int.Parse(Console.ReadLine());
         Console.WriteLine("INGRESE EL SEGUNDO NÚMERO: ");
         int num2 = int.Parse(Console.ReadLine());
-        if (opcion==4 && num2 == 0)
+        if (opcion == 4 && num2 == 0)
         {
             Console.WriteLine("No se puede dividir un número entre 0");
         }
+
 
         switch (opcion)
 
